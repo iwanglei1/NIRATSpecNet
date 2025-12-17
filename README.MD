@@ -1,5 +1,8 @@
 # 代码实现
 
+- 2025/12/18更新
+> 自己用代码时才发现少了extractNoNanData.py
+> 补充上传
 - 2022/10/28更新
 > 添加上了somefunction.py,该文件用户从数据集读取数据以及简单计算一些数据
 > 添加了return_model.py文件，可用于返回一个基线模型
@@ -15,3 +18,4 @@
 
 - 硬件环境 操作系统 windows10、显卡 Tesla V100 32G
 - 软件环境 python==3.6 、Keras==2.3 、Tensorflow==2.0
+
